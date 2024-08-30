@@ -4,6 +4,7 @@
  Aplicación CRUD de inventario
 </h3>
 <p>Proyecto de Herramientas de Programación III</p>
+<p>Jean R. • Isabela G. • Juan P. • Maria R. • Pedro M. • Wuendy A.</p>
 </div>
 
 <div align="center">
