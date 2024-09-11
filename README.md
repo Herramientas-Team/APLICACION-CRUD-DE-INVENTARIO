@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/FRCppb6.png" height="50px" width="auto" /> 
+<img src="https://i.imgur.com/4qD2cji.png" height="50px" width="auto" /> 
 <h3>
  Aplicación CRUD de inventario
 </h3>
