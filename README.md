@@ -22,4 +22,4 @@
 </div>
 
 <div align="center">
- <img src="https://i.imgur.com/BLZyofu.png" height="800px" width="auto"/>
+ <img src="https://i.imgur.com/BLZyofu.png" height="600px" width="auto"/>
